@@ -1,0 +1,12 @@
+Source: ros-melodic-igvc-self-drive-sim
+Section: misc
+Priority: extra
+Maintainer: Micho Radovnikovich <mradov@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-igvc-self-drive-sim
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-igvc-self-drive-description, ros-melodic-igvc-self-drive-gazebo, ros-melodic-igvc-self-drive-gazebo-plugins
+Description: Metapackage for igvc_self_drive_sim
