@@ -1,0 +1,12 @@
+Source: ros-kinetic-igvc-self-drive-gazebo-plugins
+Section: misc
+Priority: extra
+Maintainer: Micho Radovnikovich <mtradovn@oakland.edu>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-dynamic-reconfigure, ros-kinetic-gazebo-ros, ros-kinetic-roscpp
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-igvc-self-drive-gazebo-plugins
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-dynamic-reconfigure, ros-kinetic-gazebo-ros, ros-kinetic-gazebo-ros-pkgs, ros-kinetic-hector-gazebo-plugins, ros-kinetic-hector-models, ros-kinetic-robot-state-publisher, ros-kinetic-roscpp
+Description: Gazebo plugins for IGVC Self-Drive simulator
