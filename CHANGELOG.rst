@@ -2,6 +2,11 @@
 Changelog for package igvc_self_drive_gazebo_plugins
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.3 (2018-10-06)
+------------------
+* Changed Gazebo connection event type to sync camera with physics updates
+* Contributors: Micho Radovnikovich
+
 0.1.2 (2018-10-06)
 ------------------
 * Adjusted rostest timeouts for pre-release tests
