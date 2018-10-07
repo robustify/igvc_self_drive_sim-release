@@ -1,0 +1,35 @@
+ros-kinetic-igvc-self-drive-gazebo-plugins (0.1.4-1xenial) xenial; urgency=high
+
+  * Restructured tests to avoid deleting Gazebo model
+  * Contributors: Micho Radovnikovich
+
+ -- Micho Radovnikovich <mtradovn@oakland.edu>  Sat, 06 Oct 2018 04:00:00 -0000
+
+ros-kinetic-igvc-self-drive-gazebo-plugins (0.1.3-1xenial) xenial; urgency=high
+
+  * Changed Gazebo connection event type to sync camera with physics updates
+  * Contributors: Micho Radovnikovich
+
+ -- Micho Radovnikovich <mtradovn@oakland.edu>  Sat, 06 Oct 2018 04:00:00 -0000
+
+ros-kinetic-igvc-self-drive-gazebo-plugins (0.1.2-1xenial) xenial; urgency=high
+
+  * Adjusted rostest timeouts for pre-release tests
+  * Contributors: Micho Radovnikovich
+
+ -- Micho Radovnikovich <mtradovn@oakland.edu>  Sat, 06 Oct 2018 04:00:00 -0000
+
+ros-kinetic-igvc-self-drive-gazebo-plugins (0.1.1-1xenial) xenial; urgency=high
+
+
+
+ -- Micho Radovnikovich <mtradovn@oakland.edu>  Sat, 06 Oct 2018 04:00:00 -0000
+
+ros-kinetic-igvc-self-drive-gazebo-plugins (0.1.0-1xenial) xenial; urgency=high
+
+  * Migrated existing simulator into new repository
+  * Contributors: Micho Radovnikovich
+
+ -- Micho Radovnikovich <mtradovn@oakland.edu>  Sat, 29 Sep 2018 04:00:00 -0000
+
+
